@@ -1,3 +1,5 @@
+
+
 [
   {
     "id": 1,
@@ -8,22 +10,41 @@
     "category": "Running",
     "price": 189,
     "oldPrice": 229,
-    "discount": 17,
+    "discount": 0,
     "rating": 4.8,
     "reviews": 254,
     "stock": 38,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 10 },
-      { "size": 10, "stock": 9 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "White", "Purple"],
+    "colors": [
+      "Black",
+      "White",
+      "Purple"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/nike-air-max-pulse.jpg",
+    "image": "/images/product.png",
     "description": "Premium running shoe with responsive cushioning and breathable mesh."
   },
   {
@@ -40,17 +61,36 @@
     "reviews": 312,
     "stock": 26,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 4 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
     ],
-    "colors": ["White", "Grey", "Black"],
+    "colors": [
+      "White",
+      "Grey",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/running/adidas-ultraboost-5.jpg",
+    "image": "/images/product.png",
     "description": "Energy-return Boost cushioning built for everyday runners."
   },
   {
@@ -67,17 +107,36 @@
     "reviews": 184,
     "stock": 42,
     "sizes": [
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 9 },
-      { "size": 10, "stock": 8 },
-      { "size": 11, "stock": 7 }
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
     ],
-    "colors": ["Blue", "White", "Red"],
+    "colors": [
+      "Blue",
+      "White",
+      "Red"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/lifestyle/puma-rs-x-heritage.jpg",
+    "image": "/images/product.png",
     "description": "Chunky retro-inspired sneaker for everyday streetwear."
   },
   {
@@ -94,17 +153,35 @@
     "reviews": 201,
     "stock": 21,
     "sizes": [
-      { "size": 7, "stock": 3 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 4 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 4 }
+      {
+        "size": 7,
+        "stock": 3
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 4
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
     ],
-    "colors": ["Grey", "Cream"],
+    "colors": [
+      "Grey",
+      "Cream"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/casual/new-balance-9060.jpg",
+    "image": "/images/product.png",
     "description": "Modern comfort with premium suede and mesh construction."
   },
   {
@@ -121,17 +198,35 @@
     "reviews": 168,
     "stock": 35,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 7 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
     ],
-    "colors": ["Black", "Orange"],
+    "colors": [
+      "Black",
+      "Orange"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/asics-gel-kayano-31.jpg",
+    "image": "/images/product.png",
     "description": "High-stability running shoe designed for long-distance comfort."
   },
   {
@@ -143,22 +238,40 @@
     "category": "Sneakers",
     "price": 129,
     "oldPrice": 159,
-    "discount": 19,
+    "discount": 0,
     "rating": 4.7,
     "reviews": 486,
     "stock": 54,
     "sizes": [
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 12 },
-      { "size": 9, "stock": 13 },
-      { "size": 10, "stock": 11 },
-      { "size": 11, "stock": 8 }
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 12
+      },
+      {
+        "size": 9,
+        "stock": 13
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
     ],
-    "colors": ["Black", "White"],
+    "colors": [
+      "Black",
+      "White"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/sneakers/nike-dunk-low-panda.jpg",
+    "image": "/images/product.png",
     "description": "Iconic low-top sneaker perfect for everyday wear."
   },
   {
@@ -175,17 +288,35 @@
     "reviews": 338,
     "stock": 47,
     "sizes": [
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 10 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 10
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "White"],
+    "colors": [
+      "Black",
+      "White"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/casual/converse-chuck-70-high.jpg",
+    "image": "/images/product.png",
     "description": "Classic canvas sneaker upgraded with premium materials."
   },
   {
@@ -202,17 +333,35 @@
     "reviews": 420,
     "stock": 62,
     "sizes": [
-      { "size": 7, "stock": 12 },
-      { "size": 8, "stock": 15 },
-      { "size": 9, "stock": 13 },
-      { "size": 10, "stock": 11 },
-      { "size": 11, "stock": 11 }
+      {
+        "size": 7,
+        "stock": 12
+      },
+      {
+        "size": 8,
+        "stock": 15
+      },
+      {
+        "size": 9,
+        "stock": 13
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 11
+      }
     ],
-    "colors": ["Black", "White"],
+    "colors": [
+      "Black",
+      "White"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/skateboarding/vans-old-skool.jpg",
+    "image": "/images/product.png",
     "description": "Legendary skate shoe with durable suede and canvas upper."
   },
   {
@@ -229,17 +378,35 @@
     "reviews": 142,
     "stock": 31,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "Green"],
+    "colors": [
+      "Black",
+      "Green"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/training/reebok-nano-x4.jpg",
+    "image": "/images/product.png",
     "description": "Versatile cross-training shoe for gym and functional workouts."
   },
   {
@@ -256,20 +423,37 @@
     "reviews": 159,
     "stock": 28,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Grey", "Black"],
+    "colors": [
+      "Grey",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/walking/under-armour-hovr-phantom-3.jpg",
+    "image": "/images/product.png",
     "description": "Comfort-focused shoe with HOVR cushioning for daily wear."
   },
-
   {
     "id": 11,
     "name": "Nike Air Zoom Pegasus 41",
@@ -284,17 +468,36 @@
     "reviews": 287,
     "stock": 34,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "White", "Volt"],
+    "colors": [
+      "Black",
+      "White",
+      "Volt"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/nike-air-zoom-pegasus-41.jpg",
+    "image": "/images/product.png",
     "description": "Reliable daily trainer with responsive cushioning and a smooth ride."
   },
   {
@@ -306,22 +509,41 @@
     "category": "Casual",
     "price": 119,
     "oldPrice": 139,
-    "discount": 14,
+    "discount": 0,
     "rating": 4.7,
     "reviews": 221,
     "stock": 48,
     "sizes": [
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 10 },
-      { "size": 10, "stock": 11 },
-      { "size": 11, "stock": 8 }
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
     ],
-    "colors": ["White", "Green", "Cream"],
+    "colors": [
+      "White",
+      "Green",
+      "Cream"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/casual/adidas-stan-smith-lux.jpg",
+    "image": "/images/product.png",
     "description": "Clean leather sneaker with a timeless look for everyday outfits."
   },
   {
@@ -338,17 +560,36 @@
     "reviews": 176,
     "stock": 27,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Black", "Red", "Grey"],
+    "colors": [
+      "Black",
+      "Red",
+      "Grey"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/puma-deviate-nitro-2.jpg",
+    "image": "/images/product.png",
     "description": "Performance running shoe with explosive energy return and speed."
   },
   {
@@ -365,17 +606,36 @@
     "reviews": 294,
     "stock": 56,
     "sizes": [
-      { "size": 7, "stock": 12 },
-      { "size": 8, "stock": 11 },
-      { "size": 9, "stock": 10 },
-      { "size": 10, "stock": 11 },
-      { "size": 11, "stock": 12 }
+      {
+        "size": 7,
+        "stock": 12
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 12
+      }
     ],
-    "colors": ["Grey", "Navy", "Cream"],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Cream"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/sneakers/new-balance-574-core.jpg",
+    "image": "/images/product.png",
     "description": "Classic everyday sneaker with vintage styling and comfort."
   },
   {
@@ -392,17 +652,36 @@
     "reviews": 193,
     "stock": 24,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Orange", "Black", "Blue"],
+    "colors": [
+      "Orange",
+      "Black",
+      "Blue"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/asics-novablast-4.jpg",
+    "image": "/images/product.png",
     "description": "Light and bouncy trainer built for fast runs and daily mileage."
   },
   {
@@ -414,22 +693,41 @@
     "category": "Lifestyle",
     "price": 129,
     "oldPrice": 149,
-    "discount": 13,
+    "discount": 0,
     "rating": 4.5,
     "reviews": 147,
     "stock": 33,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "White", "Pink"],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/lifestyle/converse-run-star-motion.jpg",
+    "image": "/images/product.png",
     "description": "Bold platform sneaker with modern styling and street appeal."
   },
   {
@@ -446,17 +744,36 @@
     "reviews": 376,
     "stock": 41,
     "sizes": [
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 9 },
-      { "size": 11, "stock": 8 }
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
     ],
-    "colors": ["Black", "White", "Red"],
+    "colors": [
+      "Black",
+      "White",
+      "Red"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/skateboarding/vans-sk8-hi.jpg",
+    "image": "/images/product.png",
     "description": "High-top skate shoe with legendary grip and ankle support."
   },
   {
@@ -473,17 +790,36 @@
     "reviews": 244,
     "stock": 58,
     "sizes": [
-      { "size": 7, "stock": 11 },
-      { "size": 8, "stock": 12 },
-      { "size": 9, "stock": 10 },
-      { "size": 10, "stock": 12 },
-      { "size": 11, "stock": 13 }
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 12
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 12
+      },
+      {
+        "size": 11,
+        "stock": 13
+      }
     ],
-    "colors": ["White", "Green", "Navy"],
+    "colors": [
+      "White",
+      "Green",
+      "Navy"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/casual/reebok-club-c-85.jpg",
+    "image": "/images/product.png",
     "description": "Simple retro sneaker with soft leather and heritage styling."
   },
   {
@@ -500,17 +836,36 @@
     "reviews": 132,
     "stock": 22,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 4 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 4 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
     ],
-    "colors": ["Blue", "White", "Black"],
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/basketball/under-armour-curry-11.jpg",
+    "image": "/images/product.png",
     "description": "Explosive basketball shoe with traction and court-ready stability."
   },
   {
@@ -527,17 +882,36 @@
     "reviews": 188,
     "stock": 39,
     "sizes": [
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 8 },
-      { "size": 11, "stock": 8 }
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
     ],
-    "colors": ["Grey", "Black", "Blue"],
+    "colors": [
+      "Grey",
+      "Black",
+      "Blue"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/walking/skechers-arch-fit-2-0.jpg",
+    "image": "/images/product.png",
     "description": "Supportive walking shoe with arch comfort and lightweight cushioning."
   },
   {
@@ -554,17 +928,36 @@
     "reviews": 214,
     "stock": 29,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Black", "White", "Red"],
+    "colors": [
+      "Black",
+      "White",
+      "Red"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/nike-zoom-fly-6.jpg",
+    "image": "/images/product.png",
     "description": "Fast-paced running shoe built for tempo training and race-day miles."
   },
   {
@@ -581,17 +974,36 @@
     "reviews": 401,
     "stock": 52,
     "sizes": [
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 11 },
-      { "size": 9, "stock": 10 },
-      { "size": 10, "stock": 11 },
-      { "size": 11, "stock": 10 }
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
     ],
-    "colors": ["White", "Black", "Green"],
+    "colors": [
+      "White",
+      "Black",
+      "Green"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/sneakers/adidas-samba-og.jpg",
+    "image": "/images/product.png",
     "description": "Classic terrace sneaker with a timeless silhouette and premium feel."
   },
   {
@@ -608,17 +1020,36 @@
     "reviews": 156,
     "stock": 33,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "Blue", "Grey"],
+    "colors": [
+      "Black",
+      "Blue",
+      "Grey"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/puma-nitro-run.jpg",
+    "image": "/images/product.png",
     "description": "Cushioned daily trainer made for comfortable and efficient runs."
   },
   {
@@ -635,17 +1066,36 @@
     "reviews": 238,
     "stock": 24,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Grey", "White", "Blue"],
+    "colors": [
+      "Grey",
+      "White",
+      "Blue"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/new-balance-fresh-foam-x-1080.jpg",
+    "image": "/images/product.png",
     "description": "Plush maximum-cushion trainer for long runs and all-day comfort."
   },
   {
@@ -662,17 +1112,36 @@
     "reviews": 205,
     "stock": 22,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 4 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 4 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 4
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Black", "Grey", "Blue"],
+    "colors": [
+      "Black",
+      "Grey",
+      "Blue"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/running/asics-gel-nimbus-26.jpg",
+    "image": "/images/product.png",
     "description": "Premium neutral running shoe with soft cushioning and smooth transitions."
   },
   {
@@ -689,17 +1158,36 @@
     "reviews": 98,
     "stock": 31,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["White", "Black", "Blue"],
+    "colors": [
+      "White",
+      "Black",
+      "Blue"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/basketball/converse-weapon-cx.jpg",
+    "image": "/images/product.png",
     "description": "Retro basketball-inspired sneaker with modern comfort technology."
   },
   {
@@ -716,17 +1204,36 @@
     "reviews": 266,
     "stock": 46,
     "sizes": [
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 10 },
-      { "size": 10, "stock": 9 },
-      { "size": 11, "stock": 9 }
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
     ],
-    "colors": ["Black", "White", "Pink"],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/skateboarding/vans-era-stackform.jpg",
+    "image": "/images/product.png",
     "description": "Platform skate shoe with durable build and street-ready style."
   },
   {
@@ -743,17 +1250,36 @@
     "reviews": 121,
     "stock": 30,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Blue", "White", "Black"],
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/reebok-floatzig-1.jpg",
+    "image": "/images/product.png",
     "description": "Lightweight running shoe with a soft and energetic ride."
   },
   {
@@ -770,17 +1296,36 @@
     "reviews": 177,
     "stock": 44,
     "sizes": [
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 9 },
-      { "size": 10, "stock": 9 },
-      { "size": 11, "stock": 9 }
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
     ],
-    "colors": ["Black", "Grey", "Red"],
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/training/under-armour-charged-assert-10.jpg",
+    "image": "/images/product.png",
     "description": "Reliable training shoe with durable cushioning and a stable base."
   },
   {
@@ -797,17 +1342,36 @@
     "reviews": 209,
     "stock": 57,
     "sizes": [
-      { "size": 7, "stock": 11 },
-      { "size": 8, "stock": 11 },
-      { "size": 9, "stock": 12 },
-      { "size": 10, "stock": 11 },
-      { "size": 11, "stock": 12 }
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 12
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 12
+      }
     ],
-    "colors": ["Grey", "Black", "Navy"],
+    "colors": [
+      "Grey",
+      "Black",
+      "Navy"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/walking/skechers-go-walk-max.jpg",
+    "image": "/images/product.png",
     "description": "Ultra-comfort walking shoe made for everyday use and long strolls."
   },
   {
@@ -824,17 +1388,36 @@
     "reviews": 198,
     "stock": 27,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Black", "White", "Blue"],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/nike-react-infinity-run-4.jpg",
+    "image": "/images/product.png",
     "description": "High-cushion running shoe built for stability, comfort, and daily mileage."
   },
   {
@@ -851,17 +1434,36 @@
     "reviews": 276,
     "stock": 49,
     "sizes": [
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 9 },
-      { "size": 10, "stock": 10 },
-      { "size": 11, "stock": 10 }
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 10
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
     ],
-    "colors": ["Green", "White", "Blue"],
+    "colors": [
+      "Green",
+      "White",
+      "Blue"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/casual/adidas-gazelle-indoor.jpg",
+    "image": "/images/product.png",
     "description": "Retro suede sneaker with a clean profile and classic terrace style."
   },
   {
@@ -878,17 +1480,36 @@
     "reviews": 164,
     "stock": 32,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 7 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
     ],
-    "colors": ["Black", "Orange", "Grey"],
+    "colors": [
+      "Black",
+      "Orange",
+      "Grey"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/puma-velocity-nitro-3.jpg",
+    "image": "/images/product.png",
     "description": "Everyday running shoe with balanced cushioning and reliable traction."
   },
   {
@@ -905,17 +1526,36 @@
     "reviews": 243,
     "stock": 40,
     "sizes": [
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 8 },
-      { "size": 11, "stock": 8 }
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
     ],
-    "colors": ["Cream", "Grey", "Brown"],
+    "colors": [
+      "Cream",
+      "Grey",
+      "Brown"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/lifestyle/new-balance-327.jpg",
+    "image": "/images/product.png",
     "description": "Light retro runner with bold design and everyday comfort."
   },
   {
@@ -932,17 +1572,36 @@
     "reviews": 151,
     "stock": 25,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Blue", "Black", "Silver"],
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/asics-gt-2000-12.jpg",
+    "image": "/images/product.png",
     "description": "Stable daily trainer with smooth support for long-distance running."
   },
   {
@@ -959,17 +1618,36 @@
     "reviews": 311,
     "stock": 55,
     "sizes": [
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 11 },
-      { "size": 9, "stock": 11 },
-      { "size": 10, "stock": 11 },
-      { "size": 11, "stock": 12 }
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 11
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 12
+      }
     ],
-    "colors": ["White", "Black", "Pink"],
+    "colors": [
+      "White",
+      "Black",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/casual/converse-all-star-lift.jpg",
+    "image": "/images/product.png",
     "description": "Platform high-top sneaker with a fresh elevated street look."
   },
   {
@@ -986,17 +1664,35 @@
     "reviews": 358,
     "stock": 61,
     "sizes": [
-      { "size": 7, "stock": 12 },
-      { "size": 8, "stock": 12 },
-      { "size": 9, "stock": 13 },
-      { "size": 10, "stock": 12 },
-      { "size": 11, "stock": 12 }
+      {
+        "size": 7,
+        "stock": 12
+      },
+      {
+        "size": 8,
+        "stock": 12
+      },
+      {
+        "size": 9,
+        "stock": 13
+      },
+      {
+        "size": 10,
+        "stock": 12
+      },
+      {
+        "size": 11,
+        "stock": 12
+      }
     ],
-    "colors": ["Black", "White"],
+    "colors": [
+      "Black",
+      "White"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/skateboarding/vans-slip-on-checkerboard.jpg",
+    "image": "/images/product.png",
     "description": "Easy slip-on skate shoe with the iconic checkerboard pattern."
   },
   {
@@ -1013,17 +1709,36 @@
     "reviews": 118,
     "stock": 29,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "Green", "Grey"],
+    "colors": [
+      "Black",
+      "Green",
+      "Grey"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/training/reebok-zig-kinetica-3.jpg",
+    "image": "/images/product.png",
     "description": "Energy-return training shoe with bold design and all-day comfort."
   },
   {
@@ -1040,17 +1755,36 @@
     "reviews": 139,
     "stock": 23,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 4 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 4
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Black", "Blue", "White"],
+    "colors": [
+      "Black",
+      "Blue",
+      "White"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/under-armour-infinite-elite.jpg",
+    "image": "/images/product.png",
     "description": "Soft-cushioned running shoe designed for effortless long runs."
   },
   {
@@ -1067,17 +1801,36 @@
     "reviews": 176,
     "stock": 43,
     "sizes": [
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 9 },
-      { "size": 10, "stock": 8 },
-      { "size": 11, "stock": 9 }
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
     ],
-    "colors": ["Grey", "Black", "Blue"],
+    "colors": [
+      "Grey",
+      "Black",
+      "Blue"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/walking/skechers-go-run-consistent-2.jpg",
+    "image": "/images/product.png",
     "description": "Light and comfortable shoe made for walking, running, and daily use."
   },
   {
@@ -1094,17 +1847,36 @@
     "reviews": 244,
     "stock": 31,
     "sizes": [
-      { "size": 5, "stock": 4 },
-      { "size": 6, "stock": 6 },
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["Pink", "White", "Black"],
+    "colors": [
+      "Pink",
+      "White",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/women/running/nike-air-zoom-pegasus-41-women.jpg",
+    "image": "/images/product.png",
     "description": "Lightweight women’s running shoe with responsive cushioning and breathable comfort."
   },
   {
@@ -1121,17 +1893,36 @@
     "reviews": 198,
     "stock": 26,
     "sizes": [
-      { "size": 5, "stock": 3 },
-      { "size": 6, "stock": 5 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 }
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
     ],
-    "colors": ["White", "Purple", "Grey"],
+    "colors": [
+      "White",
+      "Purple",
+      "Grey"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/running/adidas-ultraboost-light-women.jpg",
+    "image": "/images/product.png",
     "description": "Premium running shoe with soft Boost cushioning and a sleek fit."
   },
   {
@@ -1148,17 +1939,36 @@
     "reviews": 173,
     "stock": 39,
     "sizes": [
-      { "size": 5, "stock": 6 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["White", "Pink", "Beige"],
+    "colors": [
+      "White",
+      "Pink",
+      "Beige"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/casual/puma-cali-dream-women.jpg",
+    "image": "/images/product.png",
     "description": "Everyday casual sneaker with a clean profile and soft comfort."
   },
   {
@@ -1175,17 +1985,36 @@
     "reviews": 214,
     "stock": 34,
     "sizes": [
-      { "size": 5, "stock": 5 },
-      { "size": 6, "stock": 6 },
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["Cream", "Grey", "Pink"],
+    "colors": [
+      "Cream",
+      "Grey",
+      "Pink"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/women/lifestyle/new-balance-327-women.jpg",
+    "image": "/images/product.png",
     "description": "Retro-inspired sneaker with lightweight feel and stylish design."
   },
   {
@@ -1202,17 +2031,36 @@
     "reviews": 166,
     "stock": 22,
     "sizes": [
-      { "size": 5, "stock": 3 },
-      { "size": 6, "stock": 4 },
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 }
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
     ],
-    "colors": ["Blue", "Black", "Coral"],
+    "colors": [
+      "Blue",
+      "Black",
+      "Coral"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/running/asics-gel-cumulus-26-women.jpg",
+    "image": "/images/product.png",
     "description": "Balanced daily trainer with smooth cushioning for long runs."
   },
   {
@@ -1229,17 +2077,36 @@
     "reviews": 288,
     "stock": 47,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 9 },
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 10 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
     ],
-    "colors": ["White", "Black", "Pink"],
+    "colors": [
+      "White",
+      "Black",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/casual/converse-chuck-taylor-lift-women.jpg",
+    "image": "/images/product.png",
     "description": "Classic high-top with a lifted sole and timeless everyday appeal."
   },
   {
@@ -1256,17 +2123,36 @@
     "reviews": 236,
     "stock": 52,
     "sizes": [
-      { "size": 5, "stock": 10 },
-      { "size": 6, "stock": 10 },
-      { "size": 7, "stock": 11 },
-      { "size": 8, "stock": 11 },
-      { "size": 9, "stock": 10 }
+      {
+        "size": 5,
+        "stock": 10
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
     ],
-    "colors": ["Black", "White", "Lilac"],
+    "colors": [
+      "Black",
+      "White",
+      "Lilac"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/skateboarding/vans-old-skool-women.jpg",
+    "image": "/images/product.png",
     "description": "Iconic skate sneaker with durable build and versatile style."
   },
   {
@@ -1283,17 +2169,36 @@
     "reviews": 129,
     "stock": 28,
     "sizes": [
-      { "size": 5, "stock": 4 },
-      { "size": 6, "stock": 5 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["White", "Blue", "Pink"],
+    "colors": [
+      "White",
+      "Blue",
+      "Pink"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/running/reebok-floatride-energy-5-women.jpg",
+    "image": "/images/product.png",
     "description": "Light and responsive running shoe for daily training and comfort."
   },
   {
@@ -1310,17 +2215,36 @@
     "reviews": 142,
     "stock": 24,
     "sizes": [
-      { "size": 5, "stock": 3 },
-      { "size": 6, "stock": 4 },
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 }
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
     ],
-    "colors": ["Grey", "Black", "Purple"],
+    "colors": [
+      "Grey",
+      "Black",
+      "Purple"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/training/under-armour-hovr-sonic-6-women.jpg",
+    "image": "/images/product.png",
     "description": "Versatile training shoe with responsive cushioning for active days."
   },
   {
@@ -1337,17 +2261,36 @@
     "reviews": 187,
     "stock": 41,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["Grey", "Navy", "Pink"],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/walking/skechers-go-walk-flex-women.jpg",
+    "image": "/images/product.png",
     "description": "Flexible walking shoe designed for lightweight comfort and daily wear."
   },
   {
@@ -1364,17 +2307,36 @@
     "reviews": 262,
     "stock": 30,
     "sizes": [
-      { "size": 5, "stock": 4 },
-      { "size": 6, "stock": 6 },
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["Black", "White", "Pink"],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/women/running/nike-air-zoom-pegasus-41-women-2.jpg",
+    "image": "/images/product.png",
     "description": "Responsive running shoe with lightweight cushioning for everyday training."
   },
   {
@@ -1391,17 +2353,36 @@
     "reviews": 298,
     "stock": 45,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 9 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 10 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
     ],
-    "colors": ["White", "Black", "Green"],
+    "colors": [
+      "White",
+      "Black",
+      "Green"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/sneakers/adidas-samba-og-women.jpg",
+    "image": "/images/product.png",
     "description": "Classic low-profile sneaker with timeless sporty style."
   },
   {
@@ -1418,17 +2399,36 @@
     "reviews": 181,
     "stock": 41,
     "sizes": [
-      { "size": 5, "stock": 7 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 9 }
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 9
+      }
     ],
-    "colors": ["Pink", "White", "Beige"],
+    "colors": [
+      "Pink",
+      "White",
+      "Beige"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/casual/puma-suede-classic-women.jpg",
+    "image": "/images/product.png",
     "description": "Soft suede sneaker with a clean shape and versatile everyday wear."
   },
   {
@@ -1445,17 +2445,36 @@
     "reviews": 225,
     "stock": 36,
     "sizes": [
-      { "size": 5, "stock": 6 },
-      { "size": 6, "stock": 7 },
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["Grey", "Cream", "Pink"],
+    "colors": [
+      "Grey",
+      "Cream",
+      "Pink"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/lifestyle/new-balance-574-women.jpg",
+    "image": "/images/product.png",
     "description": "Retro sneaker combining classic style with everyday comfort."
   },
   {
@@ -1472,17 +2491,36 @@
     "reviews": 171,
     "stock": 23,
     "sizes": [
-      { "size": 5, "stock": 3 },
-      { "size": 6, "stock": 4 },
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 6 }
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
     ],
-    "colors": ["Blue", "Black", "Coral"],
+    "colors": [
+      "Blue",
+      "Black",
+      "Coral"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/running/asics-gel-cumulus-26-women-2.jpg",
+    "image": "/images/product.png",
     "description": "Smooth daily trainer with soft cushioning and a comfortable fit."
   },
   {
@@ -1499,17 +2537,36 @@
     "reviews": 314,
     "stock": 49,
     "sizes": [
-      { "size": 5, "stock": 9 },
-      { "size": 6, "stock": 10 },
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 10 }
+      {
+        "size": 5,
+        "stock": 9
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
     ],
-    "colors": ["White", "Black", "Pink"],
+    "colors": [
+      "White",
+      "Black",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/casual/converse-chuck-taylor-lift-women-2.jpg",
+    "image": "/images/product.png",
     "description": "Platform high-top sneaker with a classic silhouette and modern lift."
   },
   {
@@ -1526,17 +2583,36 @@
     "reviews": 248,
     "stock": 53,
     "sizes": [
-      { "size": 5, "stock": 10 },
-      { "size": 6, "stock": 10 },
-      { "size": 7, "stock": 11 },
-      { "size": 8, "stock": 11 },
-      { "size": 9, "stock": 11 }
+      {
+        "size": 5,
+        "stock": 10
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 11
+      }
     ],
-    "colors": ["Black", "White", "Lilac"],
+    "colors": [
+      "Black",
+      "White",
+      "Lilac"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/skateboarding/vans-old-skool-women-2.jpg",
+    "image": "/images/product.png",
     "description": "Durable skate sneaker with an iconic side stripe and everyday versatility."
   },
   {
@@ -1553,17 +2629,36 @@
     "reviews": 136,
     "stock": 28,
     "sizes": [
-      { "size": 5, "stock": 4 },
-      { "size": 6, "stock": 5 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["White", "Blue", "Pink"],
+    "colors": [
+      "White",
+      "Blue",
+      "Pink"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/running/reebok-floatride-energy-5-women-2.jpg",
+    "image": "/images/product.png",
     "description": "Responsive running shoe built for daily mileage and smooth transitions."
   },
   {
@@ -1580,17 +2675,36 @@
     "reviews": 149,
     "stock": 25,
     "sizes": [
-      { "size": 5, "stock": 3 },
-      { "size": 6, "stock": 4 },
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["Grey", "Black", "Purple"],
+    "colors": [
+      "Grey",
+      "Black",
+      "Purple"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/women/training/under-armour-hovr-sonic-6-women-2.jpg",
+    "image": "/images/product.png",
     "description": "Versatile training shoe with cushioning for workouts and active wear."
   },
   {
@@ -1607,17 +2721,36 @@
     "reviews": 194,
     "stock": 42,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 9 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 9
+      }
     ],
-    "colors": ["Grey", "Navy", "Pink"],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/women/walking/skechers-go-walk-flex-women-2.jpg",
+    "image": "/images/product.png",
     "description": "Lightweight walking shoe with flexible comfort for all-day use."
   },
   {
@@ -1634,17 +2767,36 @@
     "reviews": 182,
     "stock": 33,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "White", "Grey"],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/running/nike-free-run-5-0.jpg",
+    "image": "/images/product.png",
     "description": "Flexible running shoe with a lightweight feel and natural movement."
   },
   {
@@ -1661,17 +2813,36 @@
     "reviews": 238,
     "stock": 46,
     "sizes": [
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 9 },
-      { "size": 10, "stock": 9 },
-      { "size": 11, "stock": 9 }
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
     ],
-    "colors": ["White", "Black", "Blue"],
+    "colors": [
+      "White",
+      "Black",
+      "Blue"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/sneakers/adidas-forum-low.jpg",
+    "image": "/images/product.png",
     "description": "Retro basketball-inspired sneaker with a clean everyday look."
   },
   {
@@ -1688,17 +2859,36 @@
     "reviews": 164,
     "stock": 39,
     "sizes": [
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 8 }
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
     ],
-    "colors": ["Grey", "Red", "White"],
+    "colors": [
+      "Grey",
+      "Red",
+      "White"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/lifestyle/puma-future-rider.jpg",
+    "image": "/images/product.png",
     "description": "Retro runner style with lightweight comfort and streetwear appeal."
   },
   {
@@ -1715,17 +2905,36 @@
     "reviews": 147,
     "stock": 21,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 4 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 4 },
-      { "size": 11, "stock": 4 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 4
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
     ],
-    "colors": ["Grey", "Black", "Blue"],
+    "colors": [
+      "Grey",
+      "Black",
+      "Blue"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/new-balance-fresh-foam-x-more.jpg",
+    "image": "/images/product.png",
     "description": "Maximum-cushion shoe designed for plush comfort on long runs."
   },
   {
@@ -1742,17 +2951,36 @@
     "reviews": 121,
     "stock": 24,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["White", "Blue", "Black"],
+    "colors": [
+      "White",
+      "Blue",
+      "Black"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/tennis/asics-gel-resolution-9.jpg",
+    "image": "/images/product.png",
     "description": "Stable tennis shoe with excellent grip and court-side support."
   },
   {
@@ -1769,17 +2997,36 @@
     "reviews": 96,
     "stock": 27,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["White", "Green", "Black"],
+    "colors": [
+      "White",
+      "Green",
+      "Black"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": false,
-    "image": "/images/products/men/basketball/converse-weapon-high.jpg",
+    "image": "/images/product.png",
     "description": "High-top basketball silhouette with vintage attitude and modern comfort."
   },
   {
@@ -1796,17 +3043,36 @@
     "reviews": 214,
     "stock": 44,
     "sizes": [
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 9 },
-      { "size": 10, "stock": 9 },
-      { "size": 11, "stock": 9 }
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
     ],
-    "colors": ["Black", "White", "Blue"],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
-    "image": "/images/products/men/skateboarding/vans-knu-skool.jpg",
+    "image": "/images/product.png",
     "description": "Chunky skate shoe with padded details and bold street style."
   },
   {
@@ -1823,17 +3089,36 @@
     "reviews": 133,
     "stock": 30,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "Green", "Grey"],
+    "colors": [
+      "Black",
+      "Green",
+      "Grey"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/training/reebok-nano-x3-adventure.jpg",
+    "image": "/images/product.png",
     "description": "Durable training shoe built for intense workouts and active movement."
   },
   {
@@ -1850,17 +3135,36 @@
     "reviews": 127,
     "stock": 23,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 4 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 4
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Orange", "Black", "White"],
+    "colors": [
+      "Orange",
+      "Black",
+      "White"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
-    "image": "/images/products/men/running/under-armour-flow-velociti-3.jpg",
+    "image": "/images/product.png",
     "description": "Light and fast running shoe with a smooth, responsive ride."
   },
   {
@@ -1877,17 +3181,36 @@
     "reviews": 211,
     "stock": 38,
     "sizes": [
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 },
-      { "size": 10, "stock": 7 },
-      { "size": 11, "stock": 8 }
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
     ],
-    "colors": ["Grey", "Navy", "Black"],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Black"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
-    "image": "/images/products/men/walking/skechers-max-cushioning-elite.jpg",
+    "image": "/images/product.png",
     "description": "Extra-cushioned walking shoe designed for long-lasting comfort."
   },
   {
@@ -1904,13 +3227,32 @@
     "reviews": 186,
     "stock": 24,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Black", "Volt", "White"],
+    "colors": [
+      "Black",
+      "Volt",
+      "White"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
@@ -1930,13 +3272,32 @@
     "reviews": 153,
     "stock": 31,
     "sizes": [
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 7 },
-      { "size": 10, "stock": 6 },
-      { "size": 11, "stock": 6 }
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
     ],
-    "colors": ["White", "Blue", "Orange"],
+    "colors": [
+      "White",
+      "Blue",
+      "Orange"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
@@ -1956,13 +3317,32 @@
     "reviews": 214,
     "stock": 42,
     "sizes": [
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 9 },
-      { "size": 10, "stock": 8 },
-      { "size": 11, "stock": 9 }
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
     ],
-    "colors": ["Grey", "Red", "Black"],
+    "colors": [
+      "Grey",
+      "Red",
+      "Black"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -1982,13 +3362,32 @@
     "reviews": 265,
     "stock": 26,
     "sizes": [
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 6 },
-      { "size": 10, "stock": 5 },
-      { "size": 11, "stock": 5 }
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
     ],
-    "colors": ["Silver", "Grey", "Black"],
+    "colors": [
+      "Silver",
+      "Grey",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
@@ -2008,13 +3407,32 @@
     "reviews": 201,
     "stock": 21,
     "sizes": [
-      { "size": 7, "stock": 4 },
-      { "size": 8, "stock": 4 },
-      { "size": 9, "stock": 5 },
-      { "size": 10, "stock": 4 },
-      { "size": 11, "stock": 4 }
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 4
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
     ],
-    "colors": ["Blue", "White", "Black"],
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
@@ -2034,13 +3452,32 @@
     "reviews": 178,
     "stock": 38,
     "sizes": [
-      { "size": 5, "stock": 7 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["Black", "White", "Pink"],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2060,13 +3497,32 @@
     "reviews": 243,
     "stock": 50,
     "sizes": [
-      { "size": 5, "stock": 10 },
-      { "size": 6, "stock": 10 },
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 10 },
-      { "size": 9, "stock": 10 }
+      {
+        "size": 5,
+        "stock": 10
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
     ],
-    "colors": ["White", "Black", "Red"],
+    "colors": [
+      "White",
+      "Black",
+      "Red"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2086,13 +3542,32 @@
     "reviews": 184,
     "stock": 35,
     "sizes": [
-      { "size": 5, "stock": 7 },
-      { "size": 6, "stock": 7 },
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["White", "Green", "Beige"],
+    "colors": [
+      "White",
+      "Green",
+      "Beige"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
@@ -2112,13 +3587,32 @@
     "reviews": 156,
     "stock": 29,
     "sizes": [
-      { "size": 5, "stock": 5 },
-      { "size": 6, "stock": 6 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 }
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
     ],
-    "colors": ["Purple", "Grey", "White"],
+    "colors": [
+      "Purple",
+      "Grey",
+      "White"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
@@ -2138,13 +3632,32 @@
     "reviews": 193,
     "stock": 40,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["Navy", "Grey", "Pink"],
+    "colors": [
+      "Navy",
+      "Grey",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2164,13 +3677,32 @@
     "reviews": 482,
     "stock": 44,
     "sizes": [
-      { "size": 5, "stock": 9 },
-      { "size": 6, "stock": 9 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 9
+      },
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["White", "Pink", "Black"],
+    "colors": [
+      "White",
+      "Pink",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
@@ -2190,13 +3722,32 @@
     "reviews": 361,
     "stock": 39,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["White", "Black", "Gold"],
+    "colors": [
+      "White",
+      "Black",
+      "Gold"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
@@ -2216,13 +3767,32 @@
     "reviews": 172,
     "stock": 36,
     "sizes": [
-      { "size": 5, "stock": 7 },
-      { "size": 6, "stock": 7 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["Cream", "Pink", "White"],
+    "colors": [
+      "Cream",
+      "Pink",
+      "White"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": true,
@@ -2242,13 +3812,32 @@
     "reviews": 245,
     "stock": 41,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["Grey", "Beige", "White"],
+    "colors": [
+      "Grey",
+      "Beige",
+      "White"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
@@ -2268,13 +3857,32 @@
     "reviews": 164,
     "stock": 25,
     "sizes": [
-      { "size": 5, "stock": 5 },
-      { "size": 6, "stock": 5 },
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 }
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
     ],
-    "colors": ["Blue", "White", "Pink"],
+    "colors": [
+      "Blue",
+      "White",
+      "Pink"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
@@ -2294,13 +3902,32 @@
     "reviews": 287,
     "stock": 46,
     "sizes": [
-      { "size": 5, "stock": 9 },
-      { "size": 6, "stock": 9 },
-      { "size": 7, "stock": 10 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 9 }
+      {
+        "size": 5,
+        "stock": 9
+      },
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 9
+      }
     ],
-    "colors": ["Black", "White", "Pink"],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2320,13 +3947,32 @@
     "reviews": 213,
     "stock": 34,
     "sizes": [
-      { "size": 5, "stock": 7 },
-      { "size": 6, "stock": 7 },
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 6 }
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
     ],
-    "colors": ["Black", "White", "Purple"],
+    "colors": [
+      "Black",
+      "White",
+      "Purple"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": true,
@@ -2346,13 +3992,32 @@
     "reviews": 141,
     "stock": 28,
     "sizes": [
-      { "size": 5, "stock": 5 },
-      { "size": 6, "stock": 6 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 5 }
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
     ],
-    "colors": ["Grey", "Pink", "White"],
+    "colors": [
+      "Grey",
+      "Pink",
+      "White"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
@@ -2372,13 +4037,32 @@
     "reviews": 132,
     "stock": 27,
     "sizes": [
-      { "size": 5, "stock": 5 },
-      { "size": 6, "stock": 5 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 5 }
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
     ],
-    "colors": ["Purple", "White", "Grey"],
+    "colors": [
+      "Purple",
+      "White",
+      "Grey"
+    ],
     "featured": false,
     "bestSeller": false,
     "newArrival": true,
@@ -2398,13 +4082,32 @@
     "reviews": 223,
     "stock": 42,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["Navy", "Grey", "Lavender"],
+    "colors": [
+      "Navy",
+      "Grey",
+      "Lavender"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2424,13 +4127,32 @@
     "reviews": 176,
     "stock": 31,
     "sizes": [
-      { "size": 5, "stock": 6 },
-      { "size": 6, "stock": 7 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 6 }
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
     ],
-    "colors": ["Pink", "White", "Black"],
+    "colors": [
+      "Pink",
+      "White",
+      "Black"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": true,
@@ -2450,13 +4172,32 @@
     "reviews": 241,
     "stock": 38,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["Pink", "White", "Green"],
+    "colors": [
+      "Pink",
+      "White",
+      "Green"
+    ],
     "featured": true,
     "bestSeller": true,
     "newArrival": false,
@@ -2476,13 +4217,32 @@
     "reviews": 168,
     "stock": 35,
     "sizes": [
-      { "size": 5, "stock": 7 },
-      { "size": 6, "stock": 7 },
-      { "size": 7, "stock": 7 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["White", "Beige", "Pink"],
+    "colors": [
+      "White",
+      "Beige",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": true,
@@ -2502,13 +4262,32 @@
     "reviews": 197,
     "stock": 41,
     "sizes": [
-      { "size": 5, "stock": 8 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 8 },
-      { "size": 9, "stock": 8 }
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
     ],
-    "colors": ["Grey", "Blue", "White"],
+    "colors": [
+      "Grey",
+      "Blue",
+      "White"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2528,13 +4307,32 @@
     "reviews": 151,
     "stock": 26,
     "sizes": [
-      { "size": 5, "stock": 5 },
-      { "size": 6, "stock": 5 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 5 },
-      { "size": 9, "stock": 5 }
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
     ],
-    "colors": ["Blue", "Coral", "White"],
+    "colors": [
+      "Blue",
+      "Coral",
+      "White"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
@@ -2554,13 +4352,32 @@
     "reviews": 314,
     "stock": 45,
     "sizes": [
-      { "size": 5, "stock": 9 },
-      { "size": 6, "stock": 9 },
-      { "size": 7, "stock": 9 },
-      { "size": 8, "stock": 9 },
-      { "size": 9, "stock": 9 }
+      {
+        "size": 5,
+        "stock": 9
+      },
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 9
+      }
     ],
-    "colors": ["Black", "Cream", "Red"],
+    "colors": [
+      "Black",
+      "Cream",
+      "Red"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2580,13 +4397,31 @@
     "reviews": 281,
     "stock": 52,
     "sizes": [
-      { "size": 5, "stock": 10 },
-      { "size": 6, "stock": 10 },
-      { "size": 7, "stock": 11 },
-      { "size": 8, "stock": 11 },
-      { "size": 9, "stock": 10 }
+      {
+        "size": 5,
+        "stock": 10
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
     ],
-    "colors": ["Black", "White"],
+    "colors": [
+      "Black",
+      "White"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,
@@ -2606,13 +4441,32 @@
     "reviews": 128,
     "stock": 29,
     "sizes": [
-      { "size": 5, "stock": 6 },
-      { "size": 6, "stock": 6 },
-      { "size": 7, "stock": 6 },
-      { "size": 8, "stock": 6 },
-      { "size": 9, "stock": 5 }
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
     ],
-    "colors": ["Purple", "Grey", "White"],
+    "colors": [
+      "Purple",
+      "Grey",
+      "White"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
@@ -2632,13 +4486,32 @@
     "reviews": 119,
     "stock": 22,
     "sizes": [
-      { "size": 5, "stock": 4 },
-      { "size": 6, "stock": 5 },
-      { "size": 7, "stock": 5 },
-      { "size": 8, "stock": 4 },
-      { "size": 9, "stock": 4 }
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 4
+      }
     ],
-    "colors": ["White", "Blue", "Pink"],
+    "colors": [
+      "White",
+      "Blue",
+      "Pink"
+    ],
     "featured": true,
     "bestSeller": false,
     "newArrival": true,
@@ -2658,13 +4531,32 @@
     "reviews": 232,
     "stock": 37,
     "sizes": [
-      { "size": 5, "stock": 7 },
-      { "size": 6, "stock": 8 },
-      { "size": 7, "stock": 8 },
-      { "size": 8, "stock": 7 },
-      { "size": 9, "stock": 7 }
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
     ],
-    "colors": ["White", "Silver", "Pink"],
+    "colors": [
+      "White",
+      "Silver",
+      "Pink"
+    ],
     "featured": false,
     "bestSeller": true,
     "newArrival": false,

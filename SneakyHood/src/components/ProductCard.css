@@ -1,219 +1,91 @@
-.product-card{
-
-    width:320px;
-
-    background:#111;
-
-    border-radius:24px;
-
-    overflow:hidden;
-
-    border:1px solid rgba(255,255,255,.08);
-
-    transition:.4s;
-
-    cursor:pointer;
-
+.product-card {
+  width: 220px;
+  background: #1a1a1a;
+  border-radius: 18px;
+  padding: 14px;
+  color: #fff;
+  position: relative;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
 }
-
 .product-card:hover{
-
-    transform:translateY(-10px);
-
-    box-shadow:0 20px 40px rgba(123,47,247,.25);
-
+    transform: translateY(-3px);
+    transition:ease-in;
 }
 
-.product-image{
-
-    height:260px;
-
-    position:relative;
-
-    background:linear-gradient(
-    135deg,
-    #181818,
-    #222
-    );
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
+.product-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #7b2ff7 ;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 6px 10px;
+  border-radius: 10px;
+}
+.product-badge:hover{
+  background: linear-gradient(90deg, #7b2ff7, #9b5cff, #d946ef);
+    
 }
 
-.product-image img{
-
-    width:85%;
-
-    object-fit:contain;
-
-    transition:.5s;
-
+.product-image-box {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+  margin-bottom: 12px;
+  border-radius: 12px;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.12), transparent 70%);
 }
 
-.product-card:hover img{
-
-    transform:scale(1.08) rotate(-8deg);
-
+.product-image {
+  width: 100%;
+  max-width: 180px;
+  object-fit: contain;
+  transform: rotate(-10deg);
 }
 
-.category-badge{
 
-    position:absolute;
-
-    top:18px;
-    left:18px;
-
-    padding:6px 14px;
-
-    border-radius:30px;
-
-    background:linear-gradient(
-    135deg,
-    #7b2ff7,
-    #d946ef
-    );
-
-    color:white;
-
-    font-size:.75rem;
-
+.product-name-container{
+  padding-top: 10px;
+    height: 55px;
+    text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.wishlist-btn{
-
-    position:absolute;
-
-    right:18px;
-    top:18px;
-
-    width:42px;
-    height:42px;
-
-    border-radius:50%;
-
-    border:none;
-
-    background:#1c1c1c;
-
-    color:white;
-
-    cursor:pointer;
-
-    display:flex;
-    justify-content:center;
-    align-items:center;
-
-    transition:.3s;
-
+.product-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+  font-size: 14px;
 }
 
-.wishlist-btn:hover{
-
-    background:#7b2ff7;
-
+.product-price {
+  color:white;
+  font-weight: 700;
+}
+.discounted-price{
+  padding-left: 10px;
+}
+.strikethrough_price{
+  color: red ;
+}
+.product-rating {
+  color: rgb(253, 253, 27);
 }
 
-.product-content{
-
-    padding:22px;
-
+.product-btn {
+  width: 100%;
+  border: none;
+  background:  #7b2ff7;
+  color: white;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-radius: 999px;
+  cursor: pointer;
 }
-
-.product-brand{
-
-    color:#9f9f9f;
-
-    font-size:.85rem;
-
-}
-
-.product-content h3{
-
-    color:white;
-
-    margin:8px 0 14px;
-
-    font-size:1.3rem;
-
-}
-
-.rating{
-
-    display:flex;
-
-    align-items:center;
-
-    gap:6px;
-
-    color:white;
-
-    margin-bottom:18px;
-
-}
-
-.price-row{
-
-    display:flex;
-
-    justify-content:space-between;
-
-    align-items:center;
-
-}
-
-.price{
-
-    color:white;
-
-    font-size:1.5rem;
-
-    font-weight:700;
-
-}
-
-.old-price{
-
-    margin-left:10px;
-
-    text-decoration:line-through;
-
-    color:#777;
-
-}
-
-.cart-btn{
-
-    width:48px;
-    height:48px;
-
-    border:none;
-
-    border-radius:50%;
-
-    background:linear-gradient(
-    135deg,
-    #7b2ff7,
-    #d946ef
-    );
-
-    color:white;
-
-    cursor:pointer;
-
-    display:flex;
-    justify-content:center;
-    align-items:center;
-
-    transition:.3s;
-
-}
-
-.cart-btn:hover{
-
-    transform:scale(1.1);
-
+.product-btn:hover{
+  background: linear-gradient(90deg, #7b2ff7, #9b5cff, #d946ef);
 }
