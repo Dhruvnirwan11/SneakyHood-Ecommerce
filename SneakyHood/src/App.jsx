@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Navbar from './components/Navbar'
 import ProductCard from './components/ProductCard';
 import Products from "./Data/Products.json"
+import ProductDetail_Page from './components/ProductDetails_Page';
 import './app.css'
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
         <ProductCard key={product.id} name={product.name} rating={product.rating} price={product.price} discount={product.discount}/>
     ))}</section>
       
+      <ProductDetail_Page/>
     </>
     
     
