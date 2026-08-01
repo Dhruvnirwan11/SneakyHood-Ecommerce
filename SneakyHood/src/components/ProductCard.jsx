@@ -1,15 +1,17 @@
 
 import { Strikethrough } from "lucide-react";
+import { useNavigate } from "react-router-dom";
 import "./ProductCard.css";
 
-export default function ProductCard({key,name,price,discount,rating}) {
+export default function ProductCard({key,name,price,discount,rating,id}) {
   let discounted_price = (price -(discount*price/100)).toFixed(2)
-  
+   const navigate =useNavigate()
 
   return (
+   
     <>
-    <a href="#" className="product_link">
-    <div className="product-card">
+  
+    <div className="product-card" onClick={()=>navigate(`/product/${id}`)}>
       <div>{discount===0?(<span></span>):<div  className="product-badge">{discount}% OFF</div>}</div>
 
       <div className="product-image-box">
@@ -34,7 +36,7 @@ export default function ProductCard({key,name,price,discount,rating}) {
 
       {/* <button className="product-btn">View Details</button> */}
     </div>
-    </a>
+    
     </>
   );
 }

@@ -12,7 +12,7 @@ function Navbar(){
     const [menuOpen, setMenuOpen] = useState(false);
     return(
         <>
-            <header>
+          
                <nav className="navbar">
 
       {/* Left */}
@@ -103,8 +103,6 @@ function Navbar(){
       </div>
 
     </nav>
-
-            </header>
         </>
     );
 }

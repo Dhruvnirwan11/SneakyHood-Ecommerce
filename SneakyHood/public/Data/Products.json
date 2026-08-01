@@ -1,0 +1,2545 @@
+[
+  {
+    "id": 1,
+    "name": "Converse Weapon CX",
+    "slug": "converse-weapon-cx",
+    "brand": "Converse",
+    "gender": "Men",
+    "category": "Basketball",
+    "price": 119,
+    "oldPrice": 139,
+    "discount": 14,
+    "rating": 4.5,
+    "reviews": 98,
+    "stock": 31,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Blue"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Retro basketball-inspired sneaker with modern comfort technology.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "New Balance Fresh Foam X 1080",
+    "slug": "new-balance-fresh-foam-x-1080",
+    "brand": "New Balance",
+    "gender": "Men",
+    "category": "Running",
+    "price": 189,
+    "oldPrice": 219,
+    "discount": 14,
+    "rating": 4.9,
+    "reviews": 238,
+    "stock": 24,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
+    ],
+    "colors": [
+      "Grey",
+      "White",
+      "Blue"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "Plush maximum-cushion trainer for long runs and all-day comfort.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Skechers Arch Fit 2.0",
+    "slug": "skechers-arch-fit-2-0",
+    "brand": "Skechers",
+    "gender": "Men",
+    "category": "Walking",
+    "price": 99,
+    "oldPrice": 119,
+    "discount": 17,
+    "rating": 4.7,
+    "reviews": 188,
+    "stock": 39,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Black",
+      "Blue"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Supportive walking shoe with arch comfort and lightweight cushioning.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Adidas Stan Smith Lux",
+    "slug": "adidas-stan-smith-lux",
+    "brand": "Adidas",
+    "gender": "Men",
+    "category": "Casual",
+    "price": 119,
+    "oldPrice": 139,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 221,
+    "stock": 48,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Cream"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Clean leather sneaker with a timeless look for everyday outfits.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "ASICS Gel Kayano 31",
+    "slug": "asics-gel-kayano-31",
+    "brand": "ASICS",
+    "gender": "Men",
+    "category": "Running",
+    "price": 189,
+    "oldPrice": 219,
+    "discount": 14,
+    "rating": 4.9,
+    "reviews": 168,
+    "stock": 35,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
+    ],
+    "colors": [
+      "Black",
+      "Orange"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "High-stability running shoe designed for long-distance comfort.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Converse Chuck Taylor Lift Women",
+    "slug": "converse-chuck-taylor-lift-women-2",
+    "brand": "Converse",
+    "gender": "Women",
+    "category": "Casual",
+    "price": 89,
+    "oldPrice": 109,
+    "discount": 18,
+    "rating": 4.7,
+    "reviews": 314,
+    "stock": 49,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 9
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Pink"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Platform high-top sneaker with a classic silhouette and modern lift.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Vans Era Stackform",
+    "slug": "vans-era-stackform",
+    "brand": "Vans",
+    "gender": "Men",
+    "category": "Skateboarding",
+    "price": 89,
+    "oldPrice": 109,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 266,
+    "stock": 46,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Platform skate shoe with durable build and street-ready style.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Under Armour HOVR Phantom 3",
+    "slug": "under-armour-hovr-phantom-3",
+    "brand": "Under Armour",
+    "gender": "Men",
+    "category": "Walking",
+    "price": 169,
+    "oldPrice": 199,
+    "discount": 15,
+    "rating": 4.7,
+    "reviews": 159,
+    "stock": 28,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Black"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Comfort-focused shoe with HOVR cushioning for daily wear.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Skechers Go Walk Max",
+    "slug": "skechers-go-walk-max",
+    "brand": "Skechers",
+    "gender": "Men",
+    "category": "Walking",
+    "price": 79,
+    "oldPrice": 99,
+    "discount": 20,
+    "rating": 4.7,
+    "reviews": 209,
+    "stock": 57,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 12
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 12
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Black",
+      "Navy"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Ultra-comfort walking shoe made for everyday use and long strolls.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Vans Sk8-Hi",
+    "slug": "vans-sk8-hi",
+    "brand": "Vans",
+    "gender": "Men",
+    "category": "Skateboarding",
+    "price": 95,
+    "oldPrice": 115,
+    "discount": 17,
+    "rating": 4.7,
+    "reviews": 376,
+    "stock": 41,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Red"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "High-top skate shoe with legendary grip and ankle support.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Adidas Ultraboost Light Women",
+    "slug": "adidas-ultraboost-light-women",
+    "brand": "Adidas",
+    "gender": "Women",
+    "category": "Running",
+    "price": 189,
+    "oldPrice": 229,
+    "discount": 17,
+    "rating": 4.9,
+    "reviews": 198,
+    "stock": 26,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "White",
+      "Purple",
+      "Grey"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Premium running shoe with soft Boost cushioning and a sleek fit.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Adidas Samba OG",
+    "slug": "adidas-samba-og",
+    "brand": "Adidas",
+    "gender": "Men",
+    "category": "Sneakers",
+    "price": 109,
+    "oldPrice": 129,
+    "discount": 15,
+    "rating": 4.8,
+    "reviews": 401,
+    "stock": 52,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Green"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Classic terrace sneaker with a timeless silhouette and premium feel.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Puma Deviate Nitro 2",
+    "slug": "puma-deviate-nitro-2",
+    "brand": "Puma",
+    "gender": "Men",
+    "category": "Running",
+    "price": 159,
+    "oldPrice": 189,
+    "discount": 16,
+    "rating": 4.7,
+    "reviews": 176,
+    "stock": 27,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
+    ],
+    "colors": [
+      "Black",
+      "Red",
+      "Grey"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Performance running shoe with explosive energy return and speed.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "New Balance 9060",
+    "slug": "new-balance-9060",
+    "brand": "New Balance",
+    "gender": "Men",
+    "category": "Casual",
+    "price": 179,
+    "oldPrice": 209,
+    "discount": 14,
+    "rating": 4.8,
+    "reviews": 201,
+    "stock": 21,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 3
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 4
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Cream"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Modern comfort with premium suede and mesh construction.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Skechers Go Walk Flex Women",
+    "slug": "skechers-go-walk-flex-women",
+    "brand": "Skechers",
+    "gender": "Women",
+    "category": "Walking",
+    "price": 79,
+    "oldPrice": 95,
+    "discount": 17,
+    "rating": 4.7,
+    "reviews": 187,
+    "stock": 41,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Pink"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Flexible walking shoe designed for lightweight comfort and daily wear.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Under Armour HOVR Sonic 6 Women",
+    "slug": "under-armour-hovr-sonic-6-women",
+    "brand": "Under Armour",
+    "gender": "Women",
+    "category": "Training",
+    "price": 139,
+    "oldPrice": 159,
+    "discount": 13,
+    "rating": 4.7,
+    "reviews": 142,
+    "stock": 24,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Black",
+      "Purple"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Versatile training shoe with responsive cushioning for active days.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Nike Air Zoom Pegasus 41",
+    "slug": "nike-air-zoom-pegasus-41",
+    "brand": "Nike",
+    "gender": "Men",
+    "category": "Running",
+    "price": 139,
+    "oldPrice": 169,
+    "discount": 18,
+    "rating": 4.8,
+    "reviews": 287,
+    "stock": 34,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Volt"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "Reliable daily trainer with responsive cushioning and a smooth ride.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "ASICS Gel Nimbus 26",
+    "slug": "asics-gel-nimbus-26",
+    "brand": "ASICS",
+    "gender": "Men",
+    "category": "Running",
+    "price": 199,
+    "oldPrice": 229,
+    "discount": 13,
+    "rating": 4.9,
+    "reviews": 205,
+    "stock": 22,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 4
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Blue"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Premium neutral running shoe with soft cushioning and smooth transitions.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Converse Chuck Taylor Lift Women",
+    "slug": "converse-chuck-taylor-lift-women",
+    "brand": "Converse",
+    "gender": "Women",
+    "category": "Casual",
+    "price": 89,
+    "oldPrice": 109,
+    "discount": 18,
+    "rating": 4.7,
+    "reviews": 288,
+    "stock": 47,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Pink"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Classic high-top with a lifted sole and timeless everyday appeal.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nike Air Max Pulse",
+    "slug": "nike-air-max-pulse",
+    "brand": "Nike",
+    "gender": "Men",
+    "category": "Running",
+    "price": 189,
+    "oldPrice": 229,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 254,
+    "stock": 38,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Purple"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "Premium running shoe with responsive cushioning and breathable mesh.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "New Balance 574 Women",
+    "slug": "new-balance-574-women",
+    "brand": "New Balance",
+    "gender": "Women",
+    "category": "Lifestyle",
+    "price": 119,
+    "oldPrice": 139,
+    "discount": 14,
+    "rating": 4.7,
+    "reviews": 225,
+    "stock": 36,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Cream",
+      "Pink"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Retro sneaker combining classic style with everyday comfort.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Under Armour Curry 11",
+    "slug": "under-armour-curry-11",
+    "brand": "Under Armour",
+    "gender": "Men",
+    "category": "Basketball",
+    "price": 179,
+    "oldPrice": 209,
+    "discount": 14,
+    "rating": 4.8,
+    "reviews": 132,
+    "stock": 22,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Explosive basketball shoe with traction and court-ready stability.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "New Balance 327 Women",
+    "slug": "new-balance-327-women",
+    "brand": "New Balance",
+    "gender": "Women",
+    "category": "Lifestyle",
+    "price": 129,
+    "oldPrice": 149,
+    "discount": 13,
+    "rating": 4.7,
+    "reviews": 214,
+    "stock": 34,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "Cream",
+      "Grey",
+      "Pink"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "Retro-inspired sneaker with lightweight feel and stylish design.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Under Armour HOVR Sonic 6 Women",
+    "slug": "under-armour-hovr-sonic-6-women-2",
+    "brand": "Under Armour",
+    "gender": "Women",
+    "category": "Training",
+    "price": 139,
+    "oldPrice": 159,
+    "discount": 13,
+    "rating": 4.7,
+    "reviews": 149,
+    "stock": 25,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Black",
+      "Purple"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Versatile training shoe with cushioning for workouts and active wear.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Adidas Samba OG Women",
+    "slug": "adidas-samba-og-women",
+    "brand": "Adidas",
+    "gender": "Women",
+    "category": "Sneakers",
+    "price": 109,
+    "oldPrice": 129,
+    "discount": 15,
+    "rating": 4.8,
+    "reviews": 298,
+    "stock": 45,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Green"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Classic low-profile sneaker with timeless sporty style.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Nike Air Zoom Pegasus 41 Women",
+    "slug": "nike-air-zoom-pegasus-41-women",
+    "brand": "Nike",
+    "gender": "Women",
+    "category": "Running",
+    "price": 139,
+    "oldPrice": 169,
+    "discount": 18,
+    "rating": 4.8,
+    "reviews": 244,
+    "stock": 31,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
+    ],
+    "colors": [
+      "Pink",
+      "White",
+      "Black"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "Lightweight women\u2019s running shoe with responsive cushioning and breathable comfort.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Under Armour Charged Assert 10",
+    "slug": "under-armour-charged-assert-10",
+    "brand": "Under Armour",
+    "gender": "Men",
+    "category": "Training",
+    "price": 89,
+    "oldPrice": 109,
+    "discount": 18,
+    "rating": 4.5,
+    "reviews": 177,
+    "stock": 44,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 9
+      },
+      {
+        "size": 11,
+        "stock": 9
+      }
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Reliable training shoe with durable cushioning and a stable base.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Nike Zoom Fly 6",
+    "slug": "nike-zoom-fly-6",
+    "brand": "Nike",
+    "gender": "Men",
+    "category": "Running",
+    "price": 159,
+    "oldPrice": 189,
+    "discount": 16,
+    "rating": 4.8,
+    "reviews": 214,
+    "stock": 29,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 6
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Red"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Fast-paced running shoe built for tempo training and race-day miles.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Puma Nitro Run",
+    "slug": "puma-nitro-run",
+    "brand": "Puma",
+    "gender": "Men",
+    "category": "Running",
+    "price": 149,
+    "oldPrice": 179,
+    "discount": 17,
+    "rating": 4.6,
+    "reviews": 156,
+    "stock": 33,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Grey"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Cushioned daily trainer made for comfortable and efficient runs.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Puma Suede Classic Women",
+    "slug": "puma-suede-classic-women",
+    "brand": "Puma",
+    "gender": "Women",
+    "category": "Casual",
+    "price": 89,
+    "oldPrice": 109,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 181,
+    "stock": 41,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 7
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 9
+      }
+    ],
+    "colors": [
+      "Pink",
+      "White",
+      "Beige"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Soft suede sneaker with a clean shape and versatile everyday wear.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Vans Old Skool Women",
+    "slug": "vans-old-skool-women-2",
+    "brand": "Vans",
+    "gender": "Women",
+    "category": "Skateboarding",
+    "price": 85,
+    "oldPrice": 99,
+    "discount": 14,
+    "rating": 4.6,
+    "reviews": 248,
+    "stock": 53,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 10
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 11
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Lilac"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Durable skate sneaker with an iconic side stripe and everyday versatility.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Vans Old Skool Women",
+    "slug": "vans-old-skool-women",
+    "brand": "Vans",
+    "gender": "Women",
+    "category": "Skateboarding",
+    "price": 85,
+    "oldPrice": 99,
+    "discount": 14,
+    "rating": 4.6,
+    "reviews": 236,
+    "stock": 52,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 10
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 10
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Lilac"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Iconic skate sneaker with durable build and versatile style.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Puma Cali Dream Women",
+    "slug": "puma-cali-dream-women",
+    "brand": "Puma",
+    "gender": "Women",
+    "category": "Casual",
+    "price": 119,
+    "oldPrice": 139,
+    "discount": 14,
+    "rating": 4.6,
+    "reviews": 173,
+    "stock": 39,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "White",
+      "Pink",
+      "Beige"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Everyday casual sneaker with a clean profile and soft comfort.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "ASICS Gel Cumulus 26 Women",
+    "slug": "asics-gel-cumulus-26-women-2",
+    "brand": "ASICS",
+    "gender": "Women",
+    "category": "Running",
+    "price": 179,
+    "oldPrice": 209,
+    "discount": 14,
+    "rating": 4.8,
+    "reviews": 171,
+    "stock": 23,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Blue",
+      "Black",
+      "Coral"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Smooth daily trainer with soft cushioning and a comfortable fit.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "New Balance 574 Core",
+    "slug": "new-balance-574-core",
+    "brand": "New Balance",
+    "gender": "Men",
+    "category": "Sneakers",
+    "price": 109,
+    "oldPrice": 129,
+    "discount": 15,
+    "rating": 4.6,
+    "reviews": 294,
+    "stock": 56,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 12
+      },
+      {
+        "size": 8,
+        "stock": 11
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 12
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Cream"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Classic everyday sneaker with vintage styling and comfort.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Skechers Go Walk Flex Women",
+    "slug": "skechers-go-walk-flex-women-2",
+    "brand": "Skechers",
+    "gender": "Women",
+    "category": "Walking",
+    "price": 79,
+    "oldPrice": 95,
+    "discount": 17,
+    "rating": 4.7,
+    "reviews": 194,
+    "stock": 42,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 9
+      }
+    ],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Pink"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Lightweight walking shoe with flexible comfort for all-day use.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Reebok Floatride Energy 5 Women",
+    "slug": "reebok-floatride-energy-5-women-2",
+    "brand": "Reebok",
+    "gender": "Women",
+    "category": "Running",
+    "price": 129,
+    "oldPrice": 149,
+    "discount": 13,
+    "rating": 4.6,
+    "reviews": 136,
+    "stock": 28,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
+    ],
+    "colors": [
+      "White",
+      "Blue",
+      "Pink"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Responsive running shoe built for daily mileage and smooth transitions.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Puma RS-X Heritage",
+    "slug": "puma-rs-x-heritage",
+    "brand": "Puma",
+    "gender": "Men",
+    "category": "Lifestyle",
+    "price": 149,
+    "oldPrice": 179,
+    "discount": 17,
+    "rating": 4.6,
+    "reviews": 184,
+    "stock": 42,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Red"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Chunky retro-inspired sneaker for everyday streetwear.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Reebok Floatzig 1",
+    "slug": "reebok-floatzig-1",
+    "brand": "Reebok",
+    "gender": "Men",
+    "category": "Running",
+    "price": 139,
+    "oldPrice": 169,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 121,
+    "stock": 30,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Lightweight running shoe with a soft and energetic ride.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Reebok Floatride Energy 5 Women",
+    "slug": "reebok-floatride-energy-5-women",
+    "brand": "Reebok",
+    "gender": "Women",
+    "category": "Running",
+    "price": 129,
+    "oldPrice": 149,
+    "discount": 13,
+    "rating": 4.6,
+    "reviews": 129,
+    "stock": 28,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
+    ],
+    "colors": [
+      "White",
+      "Blue",
+      "Pink"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Light and responsive running shoe for daily training and comfort.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Nike Dunk Low Panda",
+    "slug": "nike-dunk-low-panda",
+    "brand": "Nike",
+    "gender": "Men",
+    "category": "Sneakers",
+    "price": 129,
+    "oldPrice": 159,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 486,
+    "stock": 54,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 12
+      },
+      {
+        "size": 9,
+        "stock": 13
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 8
+      }
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Iconic low-top sneaker perfect for everyday wear.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "ASICS Gel Cumulus 26 Women",
+    "slug": "asics-gel-cumulus-26-women",
+    "brand": "ASICS",
+    "gender": "Women",
+    "category": "Running",
+    "price": 179,
+    "oldPrice": 209,
+    "discount": 14,
+    "rating": 4.8,
+    "reviews": 166,
+    "stock": 22,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 3
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
+    ],
+    "colors": [
+      "Blue",
+      "Black",
+      "Coral"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Balanced daily trainer with smooth cushioning for long runs.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Converse Chuck 70 High",
+    "slug": "converse-chuck-70-high",
+    "brand": "Converse",
+    "gender": "Men",
+    "category": "Casual",
+    "price": 99,
+    "oldPrice": 119,
+    "discount": 17,
+    "rating": 4.7,
+    "reviews": 338,
+    "stock": 47,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 10
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Classic canvas sneaker upgraded with premium materials.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Reebok Nano X4",
+    "slug": "reebok-nano-x4",
+    "brand": "Reebok",
+    "gender": "Men",
+    "category": "Training",
+    "price": 159,
+    "oldPrice": 189,
+    "discount": 16,
+    "rating": 4.6,
+    "reviews": 142,
+    "stock": 31,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Black",
+      "Green"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Versatile cross-training shoe for gym and functional workouts.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "ASICS Novablast 4",
+    "slug": "asics-novablast-4",
+    "brand": "ASICS",
+    "gender": "Men",
+    "category": "Running",
+    "price": 179,
+    "oldPrice": 209,
+    "discount": 14,
+    "rating": 4.9,
+    "reviews": 193,
+    "stock": 24,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 5
+      }
+    ],
+    "colors": [
+      "Orange",
+      "Black",
+      "Blue"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "Light and bouncy trainer built for fast runs and daily mileage.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Converse Run Star Motion",
+    "slug": "converse-run-star-motion",
+    "brand": "Converse",
+    "gender": "Men",
+    "category": "Lifestyle",
+    "price": 129,
+    "oldPrice": 149,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 147,
+    "stock": 33,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 7
+      },
+      {
+        "size": 10,
+        "stock": 7
+      },
+      {
+        "size": 11,
+        "stock": 6
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "newArrival": true,
+    "description": "Bold platform sneaker with modern styling and street appeal.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Reebok Club C 85",
+    "slug": "reebok-club-c-85",
+    "brand": "Reebok",
+    "gender": "Men",
+    "category": "Casual",
+    "price": 89,
+    "oldPrice": 109,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 244,
+    "stock": 58,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 12
+      },
+      {
+        "size": 9,
+        "stock": 10
+      },
+      {
+        "size": 10,
+        "stock": 12
+      },
+      {
+        "size": 11,
+        "stock": 13
+      }
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Navy"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Simple retro sneaker with soft leather and heritage styling.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Adidas Ultraboost 5",
+    "slug": "adidas-ultraboost-5",
+    "brand": "Adidas",
+    "gender": "Men",
+    "category": "Running",
+    "price": 199,
+    "oldPrice": 239,
+    "discount": 17,
+    "rating": 4.9,
+    "reviews": 312,
+    "stock": 26,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
+    ],
+    "colors": [
+      "White",
+      "Grey",
+      "Black"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Energy-return Boost cushioning built for everyday runners.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Vans Old Skool",
+    "slug": "vans-old-skool",
+    "brand": "Vans",
+    "gender": "Men",
+    "category": "Skateboarding",
+    "price": 89,
+    "oldPrice": 109,
+    "discount": 18,
+    "rating": 4.8,
+    "reviews": 420,
+    "stock": 62,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 12
+      },
+      {
+        "size": 8,
+        "stock": 15
+      },
+      {
+        "size": 9,
+        "stock": 13
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 11
+      }
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "description": "Legendary skate shoe with durable suede and canvas upper.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Nike Air Zoom Pegasus 41 Women",
+    "slug": "nike-air-zoom-pegasus-41-women-2",
+    "brand": "Nike",
+    "gender": "Women",
+    "category": "Running",
+    "price": 139,
+    "oldPrice": 169,
+    "discount": 18,
+    "rating": 4.8,
+    "reviews": 262,
+    "stock": 30,
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 4
+      },
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 7
+      }
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Pink"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": true,
+    "description": "Responsive running shoe with lightweight cushioning for everyday training.",
+    "images": [
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png",
+      "/images/product.png"
+    ]
+  }
+]

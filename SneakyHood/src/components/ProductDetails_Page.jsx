@@ -1,10 +1,18 @@
 import { useState } from "react";
+import { useParams } from "react-router-dom";
+import { Truck , TimerReset,ShieldCheck,Wallet} from 'lucide-react';
 import "./ProductDetails_Page.css"
 
-export default function ProductDetail_Page(){
+
+export default function ProductDetail_Page({products}){
+     const { id } = useParams();
     const[quantity,setQuantity]=useState(1)
-    const[size,setSize]=useState(9)
-    const[choosecolor,setChoosecolor]=useState(1)
+    const[size,setSize]=useState(1)
+    const[choosecolor,setChoosecolor]=useState(0)
+    const product = products.find(
+  (item) => item.id === Number(id)
+);
+     let discount_price=(product.price -(product.discount*product.price/100)).toFixed(2)
     return(
             <>
                 <section class="product-page">
@@ -41,28 +49,27 @@ export default function ProductDetail_Page(){
     <div class="product-info">
 
         <h1 class="product-title">
-            Air Jordan 1 Retro High OG
+          {product.name}
         </h1>
 
         <div class="rating-row">
 
             <span class="rating">
-                ★ 4.8
+                 ★ {product.rating}
             </span>
 
             <span class="reviews">
-                215 Reviews
+               {product.reviews} Reviews
             </span>
 
         </div>
 
         <h2 class="price">
-            $199.00
+            {product.discount===0?(<span>${product.price}</span>):(<><strike style={{color:"red",marginRight:12}}>${product.price}</strike><span>${discount_price}</span></>)}
         </h2>
 
         <p class="description">
-            Premium sneaker built with genuine leather and iconic
-            basketball heritage.
+           {product.description}
         </p>
 
         
@@ -72,14 +79,11 @@ export default function ProductDetail_Page(){
             <h4>Color</h4>
 
             <div class="color-options">
+               {product.colors.map((color,index)=>(
+                     <button class="color " onClick={()=>setChoosecolor(index)} style={{border:choosecolor===index?"4px solid  #7b2ff7":"none",backgroundColor:color}}></button>
+               ))}
+               
 
-                <button class="color " onClick={()=>setChoosecolor(1)} style={{border:choosecolor===1?"4px solid #9b5cff":"none"}}></button>
-
-                <button class="color" onClick={()=>setChoosecolor(2)} style={{border:choosecolor===2?"4px solid #9b5cff":"none"}}></button>
-
-                <button class="color" onClick={()=>setChoosecolor(3)} style={{border:choosecolor===3?"4px solid #9b5cff":"none"}}></button>
-
-                <button class="color" onClick={()=>setChoosecolor(4)} style={{border:choosecolor===4?"4px solid #9b5cff":"none"}}></button>
 
             </div>
 
@@ -100,50 +104,15 @@ export default function ProductDetail_Page(){
 
             <div class="size-options">
 
-                
-            <button
-  onClick={() => setSize(7)}
+              {product.sizes.map((sizes,index)=>(
+                      <button
+  onClick={() => setSize(index)}
   style={{
-    background: size===7 ? "linear-gradient(135deg,#7b2ff7,#c84cff)" : "#111"}} >
-          7
+    background: size===index ? "linear-gradient(135deg,#7b2ff7,#c84cff)" : "#111"}} >
+          {sizes.size}
        </button>
-
-                             
-            <button
-  onClick={() => setSize(8)}
-  style={{
-    background: size===8 ? "linear-gradient(135deg,#7b2ff7,#c84cff)" : "#111"}} >
-          8
-       </button>
-
-                <button    onClick={() => setSize(9)}
-  style={{
-    background: size===9 ? "linear-gradient(135deg,#7b2ff7,#c84cff)" : "#111" }}>9</button>
-
-                              
-            <button
-  onClick={() => setSize(10)}
-  style={{
-    background: size===10 ? "linear-gradient(135deg,#7b2ff7,#c84cff)" : "#111"}} >
-          10
-       </button>
-
-                              
-            <button
-  onClick={() => setSize(11)}
-  style={{
-    background: size===11 ? "linear-gradient(135deg,#7b2ff7,#c84cff)" : "#111"}} >
-          11
-       </button>
-
-               
-            <button
-  onClick={() => setSize(12)}
-  style={{
-    background: size===12 ? "linear-gradient(135deg,#7b2ff7,#c84cff)" : "#111"}} >
-          12
-       </button>
-
+              ))}  
+           
 
             </div>
 
@@ -194,7 +163,7 @@ export default function ProductDetail_Page(){
 
     <div class="feature-card">
 
-        <div class="feature-icon"></div>
+        <div class="feature-icon"> <Truck /></div>
 
         <div>
 
@@ -208,7 +177,7 @@ export default function ProductDetail_Page(){
 
     <div class="feature-card">
 
-        <div class="feature-icon"></div>
+        <div class="feature-icon">< TimerReset/></div>
 
         <div>
 
@@ -222,7 +191,7 @@ export default function ProductDetail_Page(){
 
     <div class="feature-card">
 
-        <div class="feature-icon"></div>
+        <div class="feature-icon"><ShieldCheck/></div>
 
         <div>
 
@@ -236,7 +205,7 @@ export default function ProductDetail_Page(){
 
     <div class="feature-card">
 
-        <div class="feature-icon"></div>
+        <div class="feature-icon"><Wallet/></div>
 
         <div>
 
