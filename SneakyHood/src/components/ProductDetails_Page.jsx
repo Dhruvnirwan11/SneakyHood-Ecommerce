@@ -1,18 +1,30 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
 import { Truck , TimerReset,ShieldCheck,Wallet} from 'lucide-react';
+import { useContext } from "react";
+import { CartContext } from "../Context/CartContex";
+import { useNavigate } from "react-router-dom";
 import "./ProductDetails_Page.css"
 
 
-export default function ProductDetail_Page({products}){
+export default function ProductDetail_Page({products_detail}){
      const { id } = useParams();
+     const navigate = useNavigate();
     const[quantity,setQuantity]=useState(1)
     const[size,setSize]=useState(1)
     const[choosecolor,setChoosecolor]=useState(0)
-    const product = products.find(
+    const product = products_detail.find(
   (item) => item.id === Number(id)
 );
+const selectedProducts={
+  ...product,
+  selectedQuantity:quantity,
+  selectedColor: product.colors[choosecolor],
+  selectedSize: product.sizes[size].size,
+}
      let discount_price=(product.price -(product.discount*product.price/100)).toFixed(2)
+     
+     const {cart,addToCart,IsInCart}=useContext(CartContext)
     return(
             <>
                 <section class="product-page">
@@ -141,8 +153,16 @@ export default function ProductDetail_Page({products}){
 
         <div class="product-buttons">
 
-            <button class="add-cart">
-                Add To Cart
+            <button class="add-cart" onClick={()=>{
+                if(IsInCart (selectedProducts)){
+                        navigate("/cart")
+
+                }
+                else{
+                    addToCart(selectedProducts)
+                }
+            }}>
+                { IsInCart(selectedProducts)?"Go To Bag":"Add To Cart"}
             </button>
 
             <button class="buy-now">

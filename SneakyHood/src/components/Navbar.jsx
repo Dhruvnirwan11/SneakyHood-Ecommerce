@@ -1,6 +1,7 @@
 import "./Navbar.css";
-import { useState } from "react";
-
+import { useState ,useContext} from "react";
+import { CartContext } from "../Context/CartContex";
+import { useNavigate } from "react-router-dom";
 import {
   Search,
   Heart,
@@ -10,6 +11,8 @@ import {
 } from "lucide-react";
 function Navbar(){
     const [menuOpen, setMenuOpen] = useState(false);
+    const {cart} = useContext(CartContext)
+    const navigate=useNavigate()
     return(
         <>
           
@@ -57,9 +60,9 @@ function Navbar(){
           <span className="badge">2</span>
         </button>
 
-        <button className="icon-btn">
+        <button className="icon-btn" onClick={()=>navigate("/cart")}>
         <ShoppingCart/>
-          <span className="badge">4</span>
+          <span className="badge" >{cart.length}</span>
         </button>
 
         <button className="login-btn">

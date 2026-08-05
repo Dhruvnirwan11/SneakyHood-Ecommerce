@@ -2,7 +2,9 @@ import { useState,useEffect } from 'react'
 import Navbar from './components/Navbar'
 import ProductCard from './components/ProductCard';
 import ProductDetail_Page from './components/ProductDetails_Page';
+import CartPage from './components/CartPage';
 import { Routes,Route } from 'react-router-dom';
+import ScrollToTop from './components/ScrollToTop';
 import './app.css'
 
 function App() {
@@ -28,6 +30,7 @@ function App() {
   return (
 
     <>
+    <ScrollToTop/>
 
     <Routes>
   <Route
@@ -55,11 +58,15 @@ function App() {
   <Route
     path="/product/:id"
     element={<> <Navbar></Navbar>
-    <ProductDetail_Page  products={products}/></>}
+    <ProductDetail_Page  products_detail={products}/></>}
   />
+  <Route path='/cart' element={<>
+  <Navbar></Navbar>
+  <CartPage/></>}/>
 </Routes>
-
+        
     </>
+
     
     
   )
