@@ -13,7 +13,7 @@ import {
   RotateCcw
 } from "lucide-react";
 export default function CartPage (){
-  const {cart,IncreaseQuantity,DecreaseQuantity}=useContext(CartContext)
+  const {cart,IncreaseQuantity,DecreaseQuantity,StockIdentifier,RemoveCartProduct}=useContext(CartContext)
   const navigate= useNavigate()
   const [quantity,setQuantity]=useState(0)
 
@@ -42,20 +42,21 @@ export default function CartPage (){
 
         <h4> {item.discount===0?(<span>${item.price}</span>):<span>${(item.price -(item.discount*item.price/100)).toFixed(2)}</span>}</h4>
         <div className="cart-item-additional-info">
-      <h5 className="">Size: {item.selectedSize}</h5>
+      <h5 >Size: {item.selectedSize}</h5>
         <div className="cart-item-color" style={{backgroundColor:`${item.selectedColor}`,border:"3px solid #7b2ff7"}}></div>
 </div>
+   <h4>{StockIdentifier(item)}</h4>
       
 
         <div className="cart-actions">
           <div className="quantity-box">
-            <button onClick={()=>DecreaseQuantity(item.id)}>
+            <button onClick={()=>DecreaseQuantity(item)}>
               <Minus size={16} />
             </button>
 
             <span>{item.selectedQuantity}</span>
 
-            <button onClick={()=>IncreaseQuantity(item.id)
+            <button onClick={()=>IncreaseQuantity(item)
             }>
               <Plus size={16} />
             </button>
@@ -65,7 +66,7 @@ export default function CartPage (){
             <ChevronRight size={18} />
           </button>
 
-          <button className="delete-btn">
+          <button className="delete-btn" onClick={()=>RemoveCartProduct(item)}>
             <Trash2 size={18} />
           </button>
         </div>
@@ -136,7 +137,7 @@ export default function CartPage (){
             <input
               type="text"
               placeholder="WELCOME10"
-            />
+             />
 
             <button>
 
@@ -200,6 +201,7 @@ export default function CartPage (){
         </div>
 
       </div>
+      
 
     </section>
 

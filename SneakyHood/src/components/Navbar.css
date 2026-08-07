@@ -326,8 +326,14 @@ display:none;
 display:none;
 }
 
+
 .hamburger{
 display:block;
 }
 
+}
+@media (min-width:1256px){
+  .mobile-menu.active{
+    display: none;
+  }
 }

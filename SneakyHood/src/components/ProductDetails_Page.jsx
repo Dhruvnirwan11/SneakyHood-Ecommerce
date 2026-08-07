@@ -16,6 +16,9 @@ export default function ProductDetail_Page({products_detail}){
     const product = products_detail.find(
   (item) => item.id === Number(id)
 );
+const productStock=product.sizes.find((item)=>
+        item.size===product.sizes[size].size
+)?.stock||0
 const selectedProducts={
   ...product,
   selectedQuantity:quantity,
@@ -24,7 +27,7 @@ const selectedProducts={
 }
      let discount_price=(product.price -(product.discount*product.price/100)).toFixed(2)
      
-     const {cart,addToCart,IsInCart}=useContext(CartContext)
+     const {cart,addToCart,IsInCart,StockIndentifier}=useContext(CartContext)
     return(
             <>
                 <section class="product-page">
@@ -136,13 +139,13 @@ const selectedProducts={
 
             <h4>Quantity</h4>
 
-            <div class="quantity-box">
+            <div class={IsInCart(selectedProducts)?"quantity-disable quantity-box":"quantity-box"}>
 
                 <button onClick={()=>setQuantity(quantity=>Math.max(1,(quantity-1)))}>-</button>
 
                 <span>{quantity}</span>
 
-                <button onClick={()=>setQuantity(quantity=>(quantity+1))}>+</button>
+                <button onClick={()=>setQuantity(quantity=>quantity<productStock?(quantity+1):quantity)}>+</button>
 
             </div>
 
@@ -153,7 +156,7 @@ const selectedProducts={
 
         <div class="product-buttons">
 
-            <button class="add-cart" onClick={()=>{
+            <button class="add-cart " onClick={()=>{
                 if(IsInCart (selectedProducts)){
                         navigate("/cart")
 

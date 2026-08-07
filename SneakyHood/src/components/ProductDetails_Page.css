@@ -244,6 +244,12 @@
     font-size:1.05rem;
     font-weight:600;
 }
+.quantity-disable{
+    pointer-events: none;     /* Stops click, hover, and tap events */
+    opacity: 0.5;             /* Makes the element look faded */
+    cursor: not-allowed;      /* Shows a "no entry" sign on hover */
+    user-select: none;  
+}
 
 /* ===========================
    BUTTONS
@@ -258,9 +264,9 @@
 .add-cart,
 .buy-now{
     flex:1;
-    height:58px;
+    height:62px;
     border:none;
-    border-radius:14px;
+    border-radius:16px;
     font-size:1rem;
     font-weight:700;
     cursor:pointer;

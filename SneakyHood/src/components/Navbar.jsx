@@ -55,14 +55,16 @@ function Navbar(){
           <Search />
         </button>
 
-        <button className="icon-btn">
+        {/* <button className="icon-btn">
           <Heart />
           <span className="badge">2</span>
-        </button>
+        </button> */}
 
         <button className="icon-btn" onClick={()=>navigate("/cart")}>
         <ShoppingCart/>
-          <span className="badge" >{cart.length}</span>
+          { cart.length>0?(
+          <span className="badge" >{cart.length}</span>):<span></span>
+        }
         </button>
 
         <button className="login-btn">
@@ -95,8 +97,13 @@ function Navbar(){
         <a href="/">About Us</a>
             <div className="mobile-icons">
               <button><Search /></button>
-              <button> <Heart /></button> 
-               <button> <ShoppingCart /></button>
+              {/* <button> <Heart /></button>  */}
+              <button className="icon-btn" onClick={() => { navigate("/cart"); setMenuOpen(false); }}>
+        <ShoppingCart/>
+        { cart.length>0?(
+          <span className="badge" >{cart.length}</span>):<span></span>
+        }
+        </button>
             
           </div>
 
